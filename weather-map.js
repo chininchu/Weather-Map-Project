@@ -2,6 +2,7 @@
 
 // Document.ready is required to detect the state of readiness
 
+
 let weather = ""
 
 $(document).ready(function () {
